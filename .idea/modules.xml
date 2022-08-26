@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyBlog.iml" filepath="$PROJECT_DIR$/.idea/MyBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblog/myblog.iml" filepath="$PROJECT_DIR$/myblog/myblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblog/myblog-framework/myblog-framework.iml" filepath="$PROJECT_DIR$/myblog/myblog-framework/myblog-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblog/myblog-server/myblog-server.iml" filepath="$PROJECT_DIR$/myblog/myblog-server/myblog-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblog/myblog-web/myblog-web.iml" filepath="$PROJECT_DIR$/myblog/myblog-web/myblog-web.iml" />
+    </modules>
+  </component>
+</project>
